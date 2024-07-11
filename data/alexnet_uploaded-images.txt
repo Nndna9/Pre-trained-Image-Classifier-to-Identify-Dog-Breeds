@@ -1,0 +1,10 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = alexnet 
+ dogfile = dognames.txt
+
+Printing all key-value pairs in dictionary results_dic:
+
+Pet Image Label Dictionary has 0 key-value pairs.
+Below are 0 of them:
+{}
