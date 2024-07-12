@@ -1,5 +1,5 @@
 # Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
-![dog image]([http://url/to/img.png](https://i.pinimg.com/originals/76/65/09/766509e5a7ee41214f49a84fbcafb114.jpg))
+<img src=http://url/to/img.png](https://i.pinimg.com/originals/76/65/09/766509e5a7ee41214f49a84fbcafb114.jpg>
 
 ## Overview 
 This project is part of Udacity's 'AI Programming with Python' Nanodegree scholarship by AWS. The goal of this project is to build a pipeline that can classify dog breeds using a pre-trained image classifier.
