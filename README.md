@@ -1,10 +1,6 @@
-![image](https://github.com/user-attachments/assets/ad8a1818-460e-4bc3-ae5c-8c52cd2d534b)# Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
 
-
-(![image](https://github.com/user-attachments/assets/f3523c5f-d3cc-4284-9b3e-04a4e526cd09)
-
-
-
+# Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
+![image](https://github.com/user-attachments/assets/ad8a1818-460e-4bc3-ae5c-8c52cd2d534b)
 ## Overview 
 This project is part of Udacity's 'AI Programming with Python' Nanodegree scholarship by AWS. The goal of this project is to build a pipeline that can classify dog breeds using a pre-trained image classifier.
 
